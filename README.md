@@ -6,3 +6,5 @@ K. Khosroshahi, P. Sehier and S. Mekki, "Leveraging PRS and PDSCH for Integrated
 Available: https://ieeexplore.ieee.org/abstract/document/10901798
 
 The main files are Leveraging PRS-PDSCH Comb6-12 and Leveraging PRS-PDSCH Comb2-4. The rest of the files are functions used in the main code.
+
+This work was done during my secondment at Nokia Standards, France.
